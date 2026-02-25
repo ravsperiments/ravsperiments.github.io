@@ -1,3 +1,4 @@
 # Tere Bina: Screenplay within a Song
+_February 24, 2026_
 
 In :contentReference[oaicite:0]{index=0}, the song “Tere Bina” comes right after the first conflict between Gurukant and Sujatha after their marriage. What follows is a familiar Indian-cinema trope: using a song to stage romantic quarrel and reconciliation. But this song is interesting in its structure. It plays out like a small screenplay embedded inside the film’s screenplay. The film was also dubbed in Tamil, which gives us a direct comparison between the interplay of :contentReference[oaicite:1]{index=1} and :contentReference[oaicite:2]{index=2} in Hindi, and Rahman with :contentReference[oaicite:3]{index=3} in Tamil. This creates a clean lens to examine two things: how Rahman structures the emotional arc through music, and how each lyricist works within that structure to shape the reconciliation.
