@@ -1,0 +1,9 @@
+Given the cue, Ilaiyaraaja plays it out of the park, crafting a delightful brass prelude that hints at the DuckTales theme but also something entirely his own. The main melody itself has the feel of a 1950s Western pop tune - simple, bright, and instantly hummable, but the star of the show is the trumpet. While the lead singers are wonderful, the trumpet almost behaves like a third singer. Every time it enters the song, it lifts the mood even further and takes the song’s energy into a higher orbit.
+
+Interestingly though, the same Kamal plays it very differently when it comes to Kameshwaran. The most famous song in the movie is perhaps **[Sundari Neeyum Sundaran Naanum](https://www.youtube.com/watch?v=1PKBkpxHWSA&list=RD1PKBkpxHWSA&start_radio=1)**. Not only is it an amazing song, it is also brilliantly conceived and shot — perhaps one of the best filmed song sequences in Tamil cinema. But the song also reveals something deeper about Kameshwaran.
+
+The song itself is a dream sequence. The film does not suggest whose dream it is, but I like to think it is Kameshwaran’s. In that dream, Kameshwaran is the exact opposite of his screen character — confident, romantic, and overtly masculine. The contrast is striking. The man who spends the film fussing and complaining about small inconveniences imagines himself as the kind of larger-than-life romantic hero Tamil cinema loves to portray.
+
+And that, in a subtle way, reinforces the point: Kameshwaran is not funny because he takes himself way too seriously, but because the gap between his self-image and reality is what makes him funny.
+
+In some ways he is like Appu from [Apoorva Sagodharargal](https://www.imdb.com/title/tt0096895/). Appu in the circus is funny because of the literal gap between what he is physically and what he might have been. With Kameshwaran, that gap is not physical but entirely a matter of character.
