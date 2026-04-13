@@ -86,3 +86,30 @@ blockquote {
   color: #555;
   font-style: italic;
 }
+
+/* Blog post styling */
+article {
+  margin-top: 2.5em;
+}
+
+article h2 {
+  margin-bottom: 0.1em;
+}
+
+article p {
+  margin: 1em 0;
+}
+
+.post-meta {
+  color: #888;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-top: 0 !important;
+  margin-bottom: 1.5em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 3em 0;
+}
